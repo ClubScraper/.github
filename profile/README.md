@@ -6,7 +6,9 @@
 
 ## About ClubHub
 
-ClubHub is your one-stop platform for discovering and staying connected with the vibrant student life at the University of Toronto. Whether you're looking for student-led events, clubs, or ways to get involved, ClubHub brings all of this to your fingertips. With an intuitive design and self-updating functionality, ClubHub provides the latest information about student-led events across St.George, Scarborough and Mississauga campuses.
+ClubHub is your one-stop platform for discovering and staying connected with the vibrant student life at the University of Toronto. Whether you're looking for student-led events, clubs, or ways to get involved, ClubHub brings all of this to your fingertips. With an intuitive design and self-updating functionality, ClubHub provides the latest information about student-led events across St.George, Scarborough and Mississauga campuses. 
+
+**ClubHub is still a work-in-progress; as of now, we are making the polishing touches to our website and looking for funding to deploy it.**
 
 ---
 
